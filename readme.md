@@ -2,7 +2,7 @@
 
 ***
 
-<p>이 페이지는 **머신러닝 알고리즘**을 *numpy*를 이용하여 구현 연습을 하고자합니다.</p>  
+이 페이지는 **머신러닝 알고리즘** 을 **numpy**를 이용하여 구현 연습을 하고자합니다.  
 
 * WEEK2
     * KNN 구현 및 실습  
@@ -22,3 +22,8 @@
     * KMEANS 클러스터링 구현 및 실습
 * WEEK10
     * PCA 구현 및 실습
+
+
+
+
+ **reference: [machine learning in action](https://www.manning.com/books/machine-learning-in-action)**
